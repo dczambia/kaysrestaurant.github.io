@@ -5,6 +5,13 @@ Grill Template
 http://www.templatemo.com/free-website-templates/417-grill
 
 */
+/*-- HTML --*/
+
+html {
+  background-image: url(images/bg.png);
+  background-repeat: repeat-x; 
+}
+
 
 /*-- Basic --*/
 a {
